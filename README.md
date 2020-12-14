@@ -1,7 +1,7 @@
-# CLT for Sinkhorn divergences
+# CLT for entropy-regularized optimal transport
 
 
-Matlab code to reproduce the results of the paper "Central limit theorems for entropy-regularized optimal transport on finite spaces and statistical applications", Jérémie Bigot, Elsa Cazelles and Nicolas Papadakis.
+Matlab code to reproduce the results of the paper "Central limit theorems for entropy-regularized optimal transport on finite spaces and statistical applications", JÃ©rÃ©mie Bigot, Elsa Cazelles and Nicolas Papadakis.
 https://projecteuclid.org/euclid.ejs/1576119711
 
 
